@@ -3,6 +3,8 @@ Aviator game, released by popular developer Spribe, keeps setting new records ye
 
 Whichever category you represent, you’ll need to learn the specifics before committing to your gameplay. So, how to play Aviator properly? Let’s break its rules down point by point. 
 
+<img src="" alt="aviator demo"
+
 ## Aviator Game Rules
 
 Many different websites host Aviator because they know how popular it is. Don’t worry, though, the rules and mechanics stay identical no matter which platform you end up picking. This is what you’ll have to do:
@@ -84,6 +86,8 @@ How do you know when to withdraw? You don’t, which is the whole point. Making 
 ## Does Aviator Predictor Work
 
 If you want to start playing Aviator and keep winning regardless of the length of your experience, you can consider using some analytical gaming tools. Aviator Predictor is the best of them. 
+
+<img src="https://raw.githubusercontent.com/Aviator-demo/aviator-demo/refs/heads/main/aviator_predictor_gt.png" alt="Aviator Predictor"/>
 
 You might have heard that it can help you cheat and win with a 100% accuracy rate. It’s not true; at the same time, the idea that Aviator Predictor is useless is also a myth. 
 
