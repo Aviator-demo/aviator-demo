@@ -3,7 +3,7 @@ Aviator game, released by popular developer Spribe, keeps setting new records ye
 
 Whichever category you represent, you’ll need to learn the specifics before committing to your gameplay. So, how to play Aviator properly? Let’s break its rules down point by point. 
 
-<img src="" alt="aviator demo"
+<img src="https://raw.githubusercontent.com/Aviator-demo/aviator-demo/refs/heads/main/aviator-demo-uk.png" alt="aviator demo"
 
 ## Aviator Game Rules
 
